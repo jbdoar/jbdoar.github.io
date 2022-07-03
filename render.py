@@ -17,6 +17,6 @@ for file in filenames:
         html = markdown.markdown(text)
     # make corresponding html file
     # write style and html into it
-    with open(os.path.join('html', file.replace('.md', '.html')), 'w') as g:
+    with open(file.replace('.md', '.html'), 'w') as g:
         g.write(style)
         g.write(html)
