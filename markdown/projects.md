@@ -1,5 +1,7 @@
 # Projects
-## Dispatches from my variegated tinkerings
+Dispatches from my variegated [tinkerings](tinkering.html).
+A project is a [projection](projection.html) of the [will](will.html) onto the real.
 
-* [Computer music]()
-* Video-feedback art project: [feedbackfeedingback](feedbackfeedingback.html).
+* [AVLAB](avlab.html)
+* [computer music](computer_music.html)
+* [feedbackfeedingback](feedbackfeedingback.html).
