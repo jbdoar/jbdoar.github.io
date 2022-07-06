@@ -19,7 +19,7 @@ and they are both left out on the streets.
 Encounters and misadventures in the alleys follow, wherein the cat meets various
 wacky characters and ultimately learn valuable life lessons.
 I reasoned I'd have [figured it out](epiphanies.html) at that point and would
-resume living in the world as an [effective human being](effectivehumanbeing.html).
+resume living in the world as an [effective human being](effective_human_being.html).
 
 Well eventually, I got the [style I was looking for](acatisnotaneffectivehumanbeing.com) dialed in,
 consolidated many of my doodles and notes into a coherent aesthetic,
