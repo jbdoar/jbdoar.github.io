@@ -4,8 +4,8 @@ import sys
 import markdown
 
 # load html style stuff
-with open('style.html', 'r') as f:
-    style = f.read()
+with open('template.html', 'r') as f:
+    template = f.read()
 
 # loop through the markdown directory
 filenames = os.listdir('markdown')
@@ -18,5 +18,5 @@ for file in filenames:
     # make corresponding html file
     # write style and html into it
     with open(os.path.join('docs', file.replace('.md', '.html')), 'w') as g:
-        g.write(style)
+        g.write(template)
         g.write(html)
