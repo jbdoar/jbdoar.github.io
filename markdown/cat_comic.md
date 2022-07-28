@@ -1,7 +1,7 @@
 # Drawing a comic about a cat
 
 
-<img src="https://acatisnotaneffectivehumanbeing.files.wordpress.com/2015/12/why-even-bother.png" alt="..." width="600" height="450">
+![...](https://acatisnotaneffectivehumanbeing.files.wordpress.com/2015/12/why-even-bother.png)
 
 During a drizzly November of the soul some years ago,
 I conceived that creating a sort of existential-angsty cat comic --
@@ -25,7 +25,7 @@ Well eventually, I got the [style I was looking for](acatisnotaneffectivehumanbe
 consolidated many of my doodles and notes into a coherent aesthetic,
 took a stab at continuing the story, and then gave up.
 
-<img src="https://acatisnotaneffectivehumanbeing.files.wordpress.com/2017/03/10.png?w=1000" alt="..." width="600" height="450">
+![...](https://acatisnotaneffectivehumanbeing.files.wordpress.com/2017/03/10.png?w=1000)
 
 
 
