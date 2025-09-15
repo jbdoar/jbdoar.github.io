@@ -1,32 +1,32 @@
-# First few experiments in computer music
+* First few experiments in computer music
 
 It goes like this: one or more oscillators output a waveform at some frequency, which can be varied according to a set of control signals.
 Chaotic systems and stochastic processes are of particular interest as control signals.
 
-<!---
+
 * Simulated Brownian motion modulating frequency of the oscillator.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385853777&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/brownian-vco" title="Brownian VCO" target="_blank" style="color: #cccccc; text-decoration: none;">Brownian VCO</a></div>
 
 * Simulated Lorenz system, each state variable modulating the frequency of its own oscillator.
-<!-- lorenz VCO -->
-<!---
+ lorenz VCO 
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385851026&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/lorenz-vco" title="lorenz VCO" target="_blank" style="color: #cccccc; text-decoration: none;">lorenz VCO</a></div>
---->
+
 
 When the control signals are sampled at specific note intervals and binned to musical-note frequencies,
 the results approach something like music.
-<!---
+
 * Simulated Lorenz system in C mixolydian.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385852793&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/lorenz-mixolydian" title="lorenz melodies" target="_blank" style="color: #cccccc; text-decoration: none;">lorenz melodies</a></div>
---->
-<!---
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422284512&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/comp-lorenz-no022118" title="Comp Lorenz No.022118" target="_blank" style="color: #cccccc; text-decoration: none;">Comp Lorenz No.022118</a></div>
---->
 
-<!---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422284512&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/comp-lorenz-no022118" title="Comp Lorenz No.022118" target="_blank" style="color: #cccccc; text-decoration: none;">Comp Lorenz No.022118</a></div>
+
+
+
 
 * Simulation of several random walkers at different speeds, in C Pentatonic.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425941197&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/feedbackfeedingback" title="feedbackfeedingback" target="_blank" style="color: #cccccc; text-decoration: none;">feedbackfeedingback</a> · <a href="https://soundcloud.com/feedbackfeedingback/random-walk-9" title="Random Walk #9" target="_blank" style="color: #cccccc; text-decoration: none;">Random Walk #9</a></div>
 
---->
+

@@ -5,9 +5,9 @@ I'm sitting in a garage right now, which is not really my own garage but which I
 I know of course, where these [things](clutter.html) came from, and often enough, what I told myself in order to justify getting them, that these things would be useful for projects I'd have time to work on some day, when everything aligned just so-- the workshop set up, everything on hand, organized, ready to go--and sometimes things do align, and I get a little work done. Doing what, exactly, what is the "work?" This question pains me. I struggle to explain.
 
 
-<!---
-[alchemy](alchemy.html)
-[alone](alone.html)
-[AVLAB](avlab.html)
-[hobby](hobby.html)
---->
+# <!---
+# [alchemy](alchemy.html)
+# [alone](alone.html)
+# [AVLAB](avlab.html)
+# [hobby](hobby.html)
+# --->

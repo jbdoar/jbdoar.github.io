@@ -1,7 +1,8 @@
-# Projects
-A project is a [projection](projection.html) of the [will](will.html) onto the [real](real.html).
-See below: dispatches from my variegated [tinkerings](tinkering.html).
+#+title: Projects
 
-* [AVLAB](avlab.html)
-* [computer music](computer_music.html)
-* [feedbackfeedingback](feedbackfeedingback.html).
+* Projects
+A project is a [[file:projection.org][projection]] of the [[file:will.org][will]] onto the [[file:real.org][real]].
+See below: dispatches from my variegated [[file:tinkering.org][tinkerings]].
+
+- [[file:computer_music.org][computer music]]
+- [[file:feedbackfeedingback.org][feedbackfeedingback]]

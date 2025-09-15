@@ -1,0 +1,13 @@
+#+title: My personal website
+
+Trying to keep it as (c)lean as possible. Minimal formatting, flat file structure, and so on.
+
+Project structure goes something like...
+
+- Site content is written as .org files located in the =src= directory.
+# * render.py takes each markdown file and renders it as HTML in the docs directory.
+
+- Each HTML file is also prepended with the HTML contained in template.html.
+That part is cribbed from [this website](http://bettermotherfuckingwebsite.com/).
+
+- Org files rendered to html in =docs= directory with =org-publish=.

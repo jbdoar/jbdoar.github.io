@@ -1,4 +1,5 @@
-# feedbackfeedingback
-## Making video art with video-feedback systems.
+#+title: feedbackfeedingback
 
-See [here](https://youtube.com/playlist?list=PLISC1f97Nyal9116fQjooCaNyAR3lh48U) on Youtube.
+* feedbackfeedingback
+Making video art with video-feedback systems.
+See [[https://youtube.com/playlist?list=PLISC1f97Nyal9116fQjooCaNyAR3lh48U][here]] on Youtube.
