@@ -1,6 +1,6 @@
 * Hello,
 
-Welcome to the personal website of Jason Doar, certified human being. It's under [[file://projects.org][construction]].
+Welcome to the personal website of Jason Doar, certified human being. It's under [[file:projects.org][construction]].
 
 #+attr_html: :title "pictured: wanderer above the sea of fog"
 [[https://imgur.com/KNycrYc.jpg]]
@@ -9,9 +9,9 @@ Welcome to the personal website of Jason Doar, certified human being. It's under
 A little about me:
 I live at home with my wife and our two cats.
 We are hoping to get a dog soon.
-I have several vaguely interrelated hobbies and interests, mostly involving [[file://feedbackfeedingback.org][pretty lights and flashing colors]].
-During the day I work at [[file://lamp_factory.org][the lamp factory]]. 
-Sometimes I go [[file://outside.org][outside]]. 
+I have several vaguely interrelated hobbies and interests, mostly involving [[file:feedbackfeedingback.org][pretty lights and flashing colors]].
+During the day I work at [[file:lamp_factory.org][the lamp factory]]. 
+Sometimes I go [[file:outside.org][outside]]. 
 
 
 You can reach me by email [[mailto:jbdoar@gmail.com][here]].
