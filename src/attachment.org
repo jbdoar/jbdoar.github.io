@@ -2,6 +2,6 @@
 
 Hold onto something too tight and you may lose your grip.
 
-# #+attr_html: :title "broke a thread :("
+#+attr_html: :title "broke a thread :("
 [[https://imgur.com/r5LGE6J.jpg]]
 

@@ -1,10 +1,11 @@
 #+title: Bowling
 
-# Bowling is [[file:something_to_do.org][something to do]] with [[friends]].
+* Bowling
 Bowling is something to do with friends.
 
-A few things I have learned:
-# - There is a technique and form which [[real bowlers]] use.
+** A few things I have learned:
+
 - There is a technique and form which real bowlers use.
 I have avoided attempting to learn it, opting instead to play [[file:my_way.org][my own way]].
+
 - You cannot look directly at the pin you wish to hit. It knows.
