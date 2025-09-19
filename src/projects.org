@@ -1,10 +1,8 @@
 #+title: Projects
 
-* Projects
-# A project is a [[file:projection.org][projection]] of the [[file:will.org][will]] onto the [[file:real.org][real]].
-A project is a projection of the will onto the real.
-# See below: dispatches from my variegated [[file:tinkering.org][tinkerings]].
-See below: dispatches from my variegated tinkerings.
+A project is a [[file:projection.org][projection]] of the [[file:will.org][will]] onto the [[file:real.org][real]].
+
+See below: dispatches from my variegated [[file:tinkering.org][tinkerings]].
 
 # - Chaotic oscillators
 - [[file:computer_music.org][computer music]]

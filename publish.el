@@ -9,7 +9,7 @@
 
 (setq org-html-validation-link nil)
 (setq org-html-postamble nil)
-(setq org-html-head "<style>img { max-width: 600px; }</style>")
+(setq org-html-head "<style>img { max-width: 450px; }</style>")
 
 
 (setq org-publish-project-alist

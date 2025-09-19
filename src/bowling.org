@@ -1,6 +1,5 @@
 #+title: Bowling
 
-* Bowling
 Bowling is something to do with friends.
 
 ** A few things I have learned:

@@ -1,4 +1,3 @@
 #+title: computer-music
 
-# * Computer music
 is a hobby-project.

@@ -1,5 +1,4 @@
-#+title: cat comic
-# Drawing a comic about a cat
+#+title: Drawing a comic about a cat
 
 
 [[https://acatisnotaneffectivehumanbeing.files.wordpress.com/2015/12/why-even-bother.png]]
