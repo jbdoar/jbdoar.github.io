@@ -1,6 +1,7 @@
 #+title: my way
 
 #+attr_html: :title "Works just fine"
-[[https://imgur.com/r5LGE6J.jpg]]
+[[https://imgur.com/dosqjqH.jpg]]
+
 
 Don't be afraid to do things your own way, even if it's worse.
