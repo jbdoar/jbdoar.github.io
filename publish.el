@@ -22,6 +22,7 @@
 	 :exclude ".archive/.*"
 	 :with-toc nil
 	 :section-numbers nil
+	 :with-title nil
 	 )))
 
 (org-publish "site-org" t)
